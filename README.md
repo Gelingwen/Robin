@@ -18,3 +18,13 @@
 ## 后续计划
 
 项目方向还没确定，想好之后再更新这里。
+
+## claude-config/
+
+Claude Code 的个人配置：全局 `CLAUDE.md`、`self-improve` skill 和 `feedback.md` 模板。
+
+安装到本机：
+
+```bash
+bash claude-config/install.sh
+```
